@@ -1,7 +1,7 @@
 ## Title: Incomplete Achievements
 ## Notes: Select "incomplete" option by default in achievements dropdown menu
 ## Author: Velhari-LosErrantes EU
-## Interface: 90001
+## Interface: 90105
 ## Version: 1.0
 
 IncompleteAchievements.lua
