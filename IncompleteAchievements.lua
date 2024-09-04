@@ -1,4 +1,4 @@
-DEFAULT_CHAT_FRAME:AddMessage('[IncompleteAchievements] "Incomplete" option has been selected by default in achievements dropdown menu', 1,1,0)
+-- DEFAULT_CHAT_FRAME:AddMessage('[IncompleteAchievements] "Incomplete" option has been selected by default in achievements dropdown menu', 1,1,0)
 local frame = CreateFrame ("Button", "IncompleteAchievementsFrame", UIParent)
 frame:RegisterEvent("ADDON_LOADED")
 frame:SetScript("OnEvent", function (self,event,arg1,...)

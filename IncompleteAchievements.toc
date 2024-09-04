@@ -1,7 +1,8 @@
 ## Title: Incomplete |cFF8B008BAchievements|r
 ## Notes: Select "incomplete" option by default in achievements dropdown menu
 ## Author: Velhari-LosErrantes EU
-## Interface: 100000
+## IconTexture: Interface\Icons\inv_misc_curiouscoin
+## Interface: 110002
 ## Version: 1.0
 
 IncompleteAchievements.lua
