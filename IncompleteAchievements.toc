@@ -3,7 +3,7 @@
 ## Author: Velhari-LosErrantes EU
 ## IconTexture: Interface\Icons\inv_misc_curiouscoin
 ## Category: Utils by Naeriam
-## Interface: 120005
+## Interface: 120100
 ## Version: 1.0
 
 IncompleteAchievements.lua
