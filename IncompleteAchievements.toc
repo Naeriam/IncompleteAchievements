@@ -4,6 +4,7 @@
 ## IconTexture: Interface\Icons\inv_misc_curiouscoin
 ## Category: Utils by Naeriam
 ## Interface: 120100
+## X-Curse-Project-ID: 418526
 ## Version: 1.0
 
 IncompleteAchievements.lua
