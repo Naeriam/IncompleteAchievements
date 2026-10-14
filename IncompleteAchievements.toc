@@ -3,7 +3,7 @@
 ## Author: Velhari-LosErrantes EU
 ## IconTexture: Interface\Icons\inv_misc_curiouscoin
 ## Category: Utils by Naeriam
-## Interface: 120100
+## Interface: 120105
 ## X-Curse-Project-ID: 418526
 ## Version: 1.0
 
